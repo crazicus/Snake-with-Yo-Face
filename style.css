@@ -1,12 +1,11 @@
 body {
-	background-color: #000000;
+	background-color: #ffffff;
 }
 
 #head {
 	position: relative;
 	margin: 28px;
 	left: 72px;
-	font-color: green;
 	font-family: Gothic;
 	font-size: 48px;
 }
@@ -28,7 +27,6 @@ body {
 
 .sidebar {
 	font-family: gothic;
-	font-color: green;
 	text-align: center;
 	width: 22%;
 	margin: 2%;
