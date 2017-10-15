@@ -1,5 +1,5 @@
 body {
-	background-color: #ffffff;
+	background-color: #efefff;
 }
 
 #head {
@@ -13,8 +13,9 @@ body {
 #body {
 	float: left;
 	margin-left: 2%;
+	margin-bottom: 4%;
 	width: 72%;
-	border: 0.2px solid #ffffff;
+	border: 0.2px solid #efefff;
 }
 
 #logo {
@@ -39,4 +40,8 @@ body {
 
 #notop {
 	margin-top: 0;
+}
+
+#vid {
+	margin-left: 6%;
 }
