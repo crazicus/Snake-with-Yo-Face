@@ -1,11 +1,12 @@
 body {
-	background-color: #efefff;
+	background-color: #000000;
 }
 
 #head {
 	position: relative;
 	margin: 28px;
 	left: 72px;
+	font-color: green;
 	font-family: Gothic;
 	font-size: 48px;
 }
@@ -14,7 +15,7 @@ body {
 	float: left;
 	margin-left: 2%;
 	width: 72%;
-	border: 0.2px solid #efefff;
+	border: 0.2px solid #000000;
 }
 
 #logo {
@@ -27,6 +28,7 @@ body {
 
 .sidebar {
 	font-family: gothic;
+	font-color: green;
 	text-align: center;
 	width: 22%;
 	margin: 2%;
