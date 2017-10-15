@@ -1,0 +1,42 @@
+body {
+	background-color: #efefff;
+}
+
+#head {
+	position: relative;
+	margin: 28px;
+	left: 72px;
+	font-family: Gothic;
+	font-size: 48px;
+}
+
+#body {
+	float: left;
+	margin-left: 2%;
+	width: 72%;
+	border: 0.2px solid #efefff;
+}
+
+#logo {
+	position: absolute;
+	overflow: hidden;
+	width: 84px;
+	left: 12px + 40%; 
+	margin-top: 12px;
+}
+
+.sidebar {
+	font-family: gothic;
+	text-align: center;
+	width: 22%;
+	margin: 2%;
+	float: right;
+}
+
+#lowbottom {
+	margin-bottom: 0;
+}
+
+#notop {
+	margin-top: 0;
+}
